@@ -9,14 +9,15 @@
 	
 # 使用したプログラム
 
-※下記の二点パス(https://github.com/YH0624/TodoList/tree/master/TodoList/app/src/main/java/com/example/todolist)
-  MainActivity.java   (TodoList/TodoList/app/src/main/java/com/example/todolist/MainActivity.java)
-  TestOpenHelper.java (TodoList/TodoList/app/src/main/java/com/example/todolist/TestOpenHelper.java)
+  MainActivity.java   
+  (https://github.com/YH0624/TodoList/blob/master/TodoList/app/src/main/java/com/example/todolist/MainActivity.java)
+  
+  TestOpenHelper.java 
+  (https://github.com/YH0624/TodoList/blob/master/TodoList/app/src/main/java/com/example/todolist/TestOpenHelper.java)
  
-  下記のパス(https://github.com/YH0624/TodoList/blob/master/TodoList/app/src/main/res/layout/activity_main.xml)
   activity_main.xml
+  (https://github.com/YH0624/TodoList/blob/master/TodoList/app/src/main/res/layout/activity_main.xml)
   
-  下記のパス(https://github.com/YH0624/TodoList/blob/master/TodoList/app/src/main/res/values/strings.xml)
   strings.xml
-  
+  (https://github.com/YH0624/TodoList/blob/master/TodoList/app/src/main/res/values/strings.xml)
   
