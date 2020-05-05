@@ -37,7 +37,7 @@
   MainActivity.java(onItemClick function参照)<br>
 	
 # 実際に書いたコード
-  MainActivity.java<br>   
+  MainActivity.java<br> 
   https://github.com/YH0624/TodoList/blob/master/TodoList/app/src/main/java/com/example/todolist/MainActivity.java
   
   TestOpenHelper.java<br>
@@ -48,6 +48,4 @@
   
   strings.xml<br>
   https://github.com/YH0624/TodoList/blob/master/TodoList/app/src/main/res/values/strings.xml
-  
-  
   
